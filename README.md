@@ -23,6 +23,11 @@
 
 ---
 
+## 📓 Jupyter Notebook 展示
+專案以 Jupyter Notebook 展示，以tool.ipynb命名
+
+---
+
 ## 技術與工具
 - 程式語言：Python  
 - AI API：DuckDuckGo AI API（現已停止服務）  
